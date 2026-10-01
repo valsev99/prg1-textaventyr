@@ -28,7 +28,7 @@ if val1afären == 1:
     "Du springer det snabbaste du kan till ninjago legot och tar allt ninjago lego och då börjar en 7åring gråta och såga till sin mamma att du är dum så du slår han och springer videre")
 if val1afären == 2:
     print("" \
-    "Du är jättetråkig och går SUPER LÅNGSAMT till grönsakerna och du ingnorerar godiset och ninjagolegot och bara köper en massa äklig mat")
+    "Du är jättetråkig och går SUPER LÅNGSAMT till grönsakerna och du ingnorerar godiset och ninjagolegot och bara köper en massa äklig dålig mat som havregrynsgröt och selleri")
 if val1afären == 3:
     basukajakt = int(input("" \
     "Du drar fram en bassuka från din framficka och skricker NER NER JAG HAR EN BASSUKA GE MIG ALLA PENGAR ANDARS SÅ SKUTER JAG VAR INTE EN HJÄLTE alla ger dig dina pengar och du går ut ur afären och skjuter afären utanför ändå men då börjar polisen jaga dig så du tar någons bil och börjar åka det kommer en rad av polisbilar framfrör dig på en bro du kan inte köra förbi dom klicka 1 iffal du kör in i dom och hoppas för det bästa klicka 2 för att köra av bron och hoppas att din bil är som fin mcmissil klicka 3 för att göra sönder glasrutan på bilen och skjuta din bassuka"))
@@ -37,7 +37,7 @@ if val1afären == 3:
         "Du dog")
     if basukajakt == 2:
         print("" \
-            "Du drunkna det här är inte blixten mcqueen")
+            "Du drunkna det här är inte bilar 2")
     if basukajakt == 3:
         print("" \
                 "du spränger bilarna och poliserna och flyr hela vägen till asubasian där poliserna inte våger komma så du van! ")

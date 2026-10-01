@@ -8,6 +8,10 @@
 
 ## In Progress
 
+#### .lower()
+<!-- id: task-1789370324820-21 -->
+all jämförelse av inmatning sänks till gemener först
+
 ## Done
 
 #### Inga kraschar
@@ -21,10 +25,6 @@ spelarens namn används i minst tre print()-satser
 #### Klona repot
 <!-- id: task-1789371224632-115 -->
 Klona / forka repot och börja sedan jobba med materialet
-
-#### .lower()
-<!-- id: task-1789370324820-21 -->
-all jämförelse av inmatning sänks till gemener först
 
 #### Skriv berättelsen
 <!-- id: task-1789371029039-86 -->
