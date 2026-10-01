@@ -26,9 +26,20 @@ val1afären = int(input("Nu är du inne i Willis vad gör du först klicka 1 om 
 if val1afären == 1:
     print("" \
     "Du springer det snabbaste du kan till ninjago legot och tar allt ninjago lego och då börjar en 7åring gråta och såga till sin mamma att du är dum så du slår han och springer videre")
+    ninjagojakt = int(input("Du springer ut ur Willis fast någon ringde polisen så du snor någons bil och börjar åka men sedan så ser du en massa polisbilar som blokerar vägen klicka 1 för att åka rakt in i dom och hoppas nått bra händer klicka 2 för att åka av bron och hoppas du är som mcmissil from blixten mcqueen klicka 3 för att dra fram en basuka och sjuta på polisbliarna och köra igenom"))
+    if ninjagojakt == 1:
+        print("Du dog")
+    if ninjagojakt == 2:
+        print("Du drunkna det här är inte bilar2")
 if val1afären == 2:
     print("" \
     "Du är jättetråkig och går SUPER LÅNGSAMT till grönsakerna och du ingnorerar godiset och ninjagolegot och bara köper en massa äklig dålig mat som havregrynsgröt och selleri")
+    tråkigt = int(input("Du går ut ur affären och går på några blomor och spräker några basketbollar som några barn leker med när du kommer hem så ska du gå och sova eller läsa en tråkig bajs bok klicka 1 för att sova klicka 2 för att läsa den tråkiga bajsboken"))
+    if tråkigt == 1:
+        print("Du går och läger dig och sover")
+    if tråkigt == 2:
+        print("Du läser bajsboken och går och sover")
+
 if val1afären == 3:
     basukajakt = int(input("" \
     "Du drar fram en bassuka från din framficka och skricker NER NER JAG HAR EN BASSUKA GE MIG ALLA PENGAR ANDARS SÅ SKUTER JAG VAR INTE EN HJÄLTE alla ger dig dina pengar och du går ut ur afären och skjuter afären utanför ändå men då börjar polisen jaga dig så du tar någons bil och börjar åka det kommer en rad av polisbilar framfrör dig på en bro du kan inte köra förbi dom klicka 1 iffal du kör in i dom och hoppas för det bästa klicka 2 för att köra av bron och hoppas att din bil är som fin mcmissil klicka 3 för att göra sönder glasrutan på bilen och skjuta din bassuka"))
@@ -40,7 +51,7 @@ if val1afären == 3:
             "Du drunkna det här är inte bilar 2")
     if basukajakt == 3:
         print("" \
-                "du spränger bilarna och poliserna och flyr hela vägen till asubasian där poliserna inte våger komma så du van! ")
+                "du spränger bilarna och poliserna och flyr hela vägen till kasakstan där poliserna inte våger komma så du van! ")
 
 
 

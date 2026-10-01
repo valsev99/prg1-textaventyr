@@ -6,6 +6,10 @@
 
 ## To Do
 
+#### Klona repot
+<!-- id: task-1789371224632-115 -->
+Klona / forka repot och börja sedan jobba med materialet
+
 ## In Progress
 
 #### .lower()
@@ -18,17 +22,13 @@ all jämförelse av inmatning sänks till gemener först
 <!-- id: task-1789370399886-49 -->
 vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
 
-#### f-strängar
-<!-- id: task-1789370290018-5 -->
-spelarens namn används i minst tre print()-satser
-
-#### Klona repot
-<!-- id: task-1789371224632-115 -->
-Klona / forka repot och börja sedan jobba med materialet
-
 #### Skriv berättelsen
 <!-- id: task-1789371029039-86 -->
 <!-- priority: critical -->
+
+#### f-strängar
+<!-- id: task-1789370290018-5 -->
+spelarens namn används i minst tre print()-satser
 
 #### valen i brättelsen
 <!-- id: task-1790065371912-72 -->
