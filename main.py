@@ -61,5 +61,4 @@ if val1afären == 3:
         print("" \
                 "Du spränger bilarna och poliserna och du flyr hela vägen till kasakstan där poliserna inte våger åka till så du van! ")
 
-
-
+        

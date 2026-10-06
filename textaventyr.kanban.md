@@ -8,10 +8,6 @@
 
 ## In Progress
 
-#### .lower()
-<!-- id: task-1789370324820-21 -->
-all jämförelse av inmatning sänks till gemener först
-
 ## Done
 
 #### Inga kraschar
@@ -21,6 +17,10 @@ vid normala inmatningar. Om du vill så kan du använda mönstret valideraren fr
 #### Skriv berättelsen
 <!-- id: task-1789371029039-86 -->
 <!-- priority: critical -->
+
+#### .lower()
+<!-- id: task-1789370324820-21 -->
+all jämförelse av inmatning sänks till gemener först
 
 #### f-strängar
 <!-- id: task-1789370290018-5 -->
