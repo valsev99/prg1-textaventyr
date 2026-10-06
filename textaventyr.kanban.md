@@ -6,10 +6,6 @@
 
 ## To Do
 
-#### Klona repot
-<!-- id: task-1789371224632-115 -->
-Klona / forka repot och börja sedan jobba med materialet
-
 ## In Progress
 
 #### .lower()
@@ -39,6 +35,10 @@ ja
 #### Spelarnamn
 <!-- id: task-1789370256358-0 -->
 programmet frågar efter spelarens namn och lagrar det i en variabel
+
+#### Klona repot
+<!-- id: task-1789371224632-115 -->
+Klona / forka repot och börja sedan jobba med materialet
 
 #### Vägval i följd
 <!-- id: task-1789370317834-14 -->
